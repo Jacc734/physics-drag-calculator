@@ -1,0 +1,3 @@
+The program includes dependices from JFreeCharts API
+Will NOT work without them. 
+Download JFreeCharts API before attempting to edit program in your own IDE.
